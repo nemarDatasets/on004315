@@ -1,1 +1,3 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on004315-blue)](https://doi.org/10.82901/nemar.on004315)
+
 Reinforcement learning task with 50 healthy controls (25 after a sad mood manipulation, 25 after a neutral mood manipulation)  Task with a training section and testing section.   Task adapted from here: https://doi.org/10.1126/science.1102941.    Separate mood manipulation occurred earlier.  Task included in Matlab programming language.   Data collected from 2019-2021 in Cognitive Rhythms and Computation Lab at University of New Mexico.  Check the .xls sheet under code folder for more meta data.   - Trevor CJ Jackson 06/25/2021
